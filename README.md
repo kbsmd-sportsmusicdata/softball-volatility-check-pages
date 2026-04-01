@@ -33,7 +33,7 @@ The goal is to identify **structural strength vs short-term variance** early in 
 
 # Dashboard Preview
 
-![Softball Volatility Dashboard](dashboard-preview.png)
+![Softball Volatility Dashboard](softball_volatility_tracker_preview.png)
 
 ---
 
